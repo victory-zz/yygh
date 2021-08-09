@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/common/common.iml" filepath="$PROJECT_DIR$/yygh_parent/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/common/common_util/common_util.iml" filepath="$PROJECT_DIR$/yygh_parent/common/common_util/common_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/hospital-manage/hospital-manage.iml" filepath="$PROJECT_DIR$/yygh_parent/hospital-manage/hospital-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/model/model.iml" filepath="$PROJECT_DIR$/yygh_parent/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/service/service.iml" filepath="$PROJECT_DIR$/yygh_parent/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/common/service-util/service-util.iml" filepath="$PROJECT_DIR$/yygh_parent/common/service-util/service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/service/service_cmn/service_cmn.iml" filepath="$PROJECT_DIR$/yygh_parent/service/service_cmn/service_cmn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/service/service_hosp/service_hosp.iml" filepath="$PROJECT_DIR$/yygh_parent/service/service_hosp/service_hosp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/service/service_user/service_user.iml" filepath="$PROJECT_DIR$/yygh_parent/service/service_user/service_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yygh.iml" filepath="$PROJECT_DIR$/.idea/yygh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yygh_parent/yygh_parent.iml" filepath="$PROJECT_DIR$/yygh_parent/yygh_parent.iml" />
+    </modules>
+  </component>
+</project>
